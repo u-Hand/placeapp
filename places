@@ -4,4 +4,15 @@
     "imageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg",
     "Place":{
       "name":"Sevilla",
-      "placeImageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg"}}}
+      "placeImageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg"
+      }
+  }
+  {"id":2,
+    "body":"Sevilla es una ciudad muy grande",
+    "imageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg",
+    "Place":{
+      "name":"Sevilla",
+      "placeImageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg"
+      }
+  }
+}
