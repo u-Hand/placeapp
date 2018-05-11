@@ -1,2 +1,7 @@
-{"Following":{"id":1,"body":"Sevilla es una ciudad muy bonita","imageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg"},
-"Place":[{"name":"Sevilla","placeImageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg"}]}
+{"Following":
+  {"id":1,
+    "body":"Sevilla es una ciudad muy bonita",
+    "imageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg",
+    "Place":{
+      "name":"Sevilla",
+      "placeImageUrl":"http://www.andalucia.org/media/fotos/image_164346_jpeg_800x600_q85.jpg"}}}
